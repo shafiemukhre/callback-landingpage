@@ -36,7 +36,7 @@ theme = "vex-hugo"
     title = "Recall computer science fundamentals"
     text = "{callback}"
     [params.header.image]
-      path = "images/fconnectlogo3.png"
+      path = "images/callbacklogo.jpg"
       alt = "Watch"
     [params.header.button]
       link = "#about"
@@ -138,11 +138,11 @@ theme = "vex-hugo"
       name = "Abraham Tesfay"
       position = ""
       image = "images/profilepic/abraham.jpg"
-    [[params.testimonials.blocks]]
-      text = ""
-      name = "Kimlong Hor"
-      position = ""
-      image = "images/profilepic/kimlong.JPG"
+    #[[params.testimonials.blocks]]
+      #text = ""
+      #name = "Kimlong Hor"
+      #position = ""
+      #image = "images/profilepic/kimlong.JPG"
     #[params.testimonials.button]
       #link = ""
       #text = "Join Us!"

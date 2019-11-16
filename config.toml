@@ -102,7 +102,7 @@ theme = "vex-hugo"
     # Set the image directory to use as base
     directory = "images/showcase"
     # Set the images to show in the gallery
-    images = ["fconnect1.png", "fconnect2.png", "fconnect3.png", "fconnect4.png", "fconnect5.png", "fconnect6.png", "fconnect7.png", "fconnect8.png", "fconnect9.png"]
+    images = ["callback1.png", "callback2.png", "callback3.png", "callback4.png", "callback5.png", "callback6.png", "callback7.png", "callback8.png", "callback9.png"]
 
   [params.call_to_action]
     #title = "🏆 Second Place Winner Paypal Opportunity Hack 2019 🏆"

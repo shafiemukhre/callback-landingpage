@@ -85,14 +85,13 @@ theme = "vex-hugo"
   [params.feature_list]
     title = "Problem and Solution"
     [[params.feature_list.items]]
-      image = "images/problemimage.jpg"
+      image = "images/rejection.jpeg"
       title = "Problem"
       text = "Students understand, however are not able  --and need practice -- to explain CS fundamentals properly. Students need practice in Students desperately needs referrals. It’s difficult for employee in big companies to judge whether the students has a strong fundamentals or not if he/she would like to refer the students."
-"
       button_link = "https://www.nfyi.org/51-useful-aging-out-of-foster-care-statistics-social-race-media/"
       button_text = "Reference"
     [[params.feature_list.items]]
-      image = "images/30StandingCombine.png"
+      image = "images/30StandingCombine.png" 
       title = "Solution"
       text = "{callback} app trains university students with CS fundamentals by answering questions verbally. Premium subscription gave qualified students the personalized access to recruiters and referrals. "
       button_link = ""

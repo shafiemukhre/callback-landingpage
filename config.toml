@@ -1,4 +1,4 @@
-baseurl = "https://www.fconnect.ml/"
+baseurl = "http://www.callbacks.ml/"
 languageCode = "en"
 title = "callback"
 theme = "vex-hugo"

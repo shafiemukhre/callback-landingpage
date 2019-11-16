@@ -76,7 +76,7 @@ theme = "vex-hugo"
       #text = "User can view all the photos of foods that they have uploaded on their profile"
 
   [params.promo]
-    title = "Personalized resources to help you with few clicks away in the palm of your hand"
+    title = "Our mission is to contribute nurturing students with strong basic fundamentals in computer science, so that Recruiter and Companies will want them. "
     text = ""
     [params.promo.image]
       path = "images/holdphone.png"
@@ -87,13 +87,14 @@ theme = "vex-hugo"
     [[params.feature_list.items]]
       image = "images/problemimage.jpg"
       title = "Problem"
-      text = "About 25,000 foster youth age out of Foster system every year.  25% are homeless,  37% are high school drop outs, only 3% graduate out of college, more than half are unemployed,  90% live in poverty earning less than $10,000 per year. There are so many resources available to foster youth from Federal Government, State Government, City Council, and Non-Profit Organization scattered all over the internet and unknown to most foster youth."
+      text = "Students understand, however are not able  --and need practice -- to explain CS fundamentals properly. Students need practice in Students desperately needs referrals. It’s difficult for employee in big companies to judge whether the students has a strong fundamentals or not if he/she would like to refer the students."
+"
       button_link = "https://www.nfyi.org/51-useful-aging-out-of-foster-care-statistics-social-race-media/"
       button_text = "Reference"
     [[params.feature_list.items]]
       image = "images/30StandingCombine.png"
       title = "Solution"
-      text = "With FConnect+ mobile app, all these urgent and important information stays in the user's pocket and goes to the user through push notification when the user need it instead of the user searching on the internet. Each information ranked based on the most relevant personalized to each user from regular questionaire from time to time."
+      text = "{callback} app trains university students with CS fundamentals by answering questions verbally. Premium subscription gave qualified students the personalized access to recruiters and referrals. "
       button_link = ""
       button_text = "Download (Soon)"
 

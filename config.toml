@@ -91,7 +91,7 @@ theme = "vex-hugo"
       button_link = "https://www.nfyi.org/51-useful-aging-out-of-foster-care-statistics-social-race-media/"
       button_text = "Reference"
     [[params.feature_list.items]]
-      image = "images/30StandingCombine.png" 
+      image = "images/stacks.png" 
       title = "Solution"
       text = "{callback} app trains university students with CS fundamentals by answering questions verbally. Premium subscription gave qualified students the personalized access to recruiters and referrals. "
       button_link = ""

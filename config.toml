@@ -138,11 +138,11 @@ theme = "vex-hugo"
       name = "Abraham Tesfay"
       position = ""
       image = "images/profilepic/abraham.jpg"
-    #[[params.testimonials.blocks]]
-      #text = ""
-      #name = "Kimlong Hor"
-      #position = ""
-      #image = "images/profilepic/kimlong.JPG"
+    [[params.testimonials.blocks]]
+      text = ""
+      name = "Kimlong Hor"
+      position = ""
+      image = "images/profilepic/kimlong.JPG"
     #[params.testimonials.button]
       #link = ""
       #text = "Join Us!"

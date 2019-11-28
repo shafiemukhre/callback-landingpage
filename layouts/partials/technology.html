@@ -1,0 +1,18 @@
+<!-- Technology start -->
+{{- with .Site.Params.technology }}
+<section class="technology section" id="technology">
+  <div class="container">
+    <div class="row">
+      <div  class="heading">
+        <h2>{{ .title }}</h2>
+      </div>
+      {{- with .image }}
+      <div class="col-md-12 text-center">
+        <img src="{{ relURL .path }}" alt="{{ .alt }}">
+      </div>
+      {{- end }}
+      </div>
+    </div>
+  </div><!-- .container close -->
+</section><!-- #service close -->
+{{- end }}

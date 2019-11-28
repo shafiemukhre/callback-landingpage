@@ -19,8 +19,8 @@ theme = "vex-hugo"
   [params.navbar]
     logo = "{callback}"
     #[[params.navbar.menu]]
-      #link = "#"
-      #text = "Open Resources (soon)"
+      #link = "#promo"
+      #text = "Our mission"
     #[[params.navbar.menu]]
       #link = "#feature"
       #text = "ABOUT"
@@ -33,18 +33,18 @@ theme = "vex-hugo"
 
   # Header
   [params.header]
-    title = "Recall computer science fundamentals"
+    title = "Recall computer science basics"
     text = "{callback}"
     [params.header.image]
       path = "images/callbacklogo.jpg"
       alt = "Watch"
     [params.header.button]
-      link = "#about"
-      text = "Soon on Appstore"
+      link = "#promo"
+      text = "Our Mission"
 
   # Features
   #[params.features]
-    #title = "Our Core Features"
+    #title = "Our features"
     #[params.features.image]
       #path = "images/watch-2.png"
       #alt = "Watch"
@@ -75,8 +75,20 @@ theme = "vex-hugo"
       #title = "User Profile"
       #text = "User can view all the photos of foods that they have uploaded on their profile"
 
+  #[params.technology]
+    #title = "How we build this"
+    #[params.technology.image]
+      #path = "images/quizyourself.png"
+
+[params.technologygallery]
+    title = "How we build this"
+    # Set the image directory to use as base
+    directory = "images/technology"
+    # Set the images to show in the gallery
+    images = ["askquestion80.png", "addanswer80.png", "quizyourself80.png"]
+
   [params.promo]
-    title = "Our mission is to contribute nurturing students with strong basic fundamentals in computer science, so that Recruiter and Companies will want them. "
+    title = "Our mission is to help students get a great job by going back to basic"
     text = ""
     [params.promo.image]
       path = "images/holdphone.png"
@@ -102,14 +114,14 @@ theme = "vex-hugo"
     # Set the image directory to use as base
     directory = "images/showcase"
     # Set the images to show in the gallery
-    images = ["callback1.png", "callback2.png", "callback3.png", "callback4.png", "callback5.png", "callback6.png", "callback7.png", "callback8.png", "callback9.png"]
+    images = ["callback1.png", "callback2.png", "callback3.png", "callback4.png", "callback5.png", "callback6.png", "callback8.png"]
 
   [params.call_to_action]
     #title = "🏆 Second Place Winner Paypal Opportunity Hack 2019 🏆"
     #text = "We will update you when we release the apps and the milestones achieved via email"
     #placeholder = "Your Email Address Here"
     button_text = "DEVPOST PAGE"
-    link = "https://devpost.com/software/fconnect"
+    link = "https://devpost.com/software/callback"
 
   [params.testimonials]
     title = "Our Team"
